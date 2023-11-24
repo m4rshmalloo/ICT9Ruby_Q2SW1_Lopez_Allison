@@ -1,0 +1,9 @@
+body {
+	background-color: seashell;
+}
+
+
+table, th {
+	border: 2px solid;
+	border-color: saddlebrown;
+}
